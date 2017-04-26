@@ -4,4 +4,4 @@ GNL (get next line)
 
 # My result
 
-![119/100][GNL_Result.png]
+![119/100](GNL_Result.png)
